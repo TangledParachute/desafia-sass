@@ -1,0 +1,120 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+
+}
+
+img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+li{
+    background-color: rgb(221, 169, 152);
+    border: 1px solid black;
+    margin-left:40%;
+    margin-right:39%;
+    padding: 3px;
+}
+ul{
+  
+    text-align: center;
+}
+body{
+
+    background-color: rgb(56, 49, 49);
+}
+  
+    
+
+h1{
+    padding: 10px;
+    text-align: center;
+    margin: 5px ;
+    background-color: darksalmon;
+    border: 2px solid black;
+    border-radius: 40px;
+}
+
+.Menu{
+
+    padding: 5px;
+    margin-right: 10% ;
+    margin-left: 10%;
+    text-align: center;
+    background-color: darksalmon;
+    border: 2px solid black;
+    border-radius: 20px ;
+}
+
+h3{
+    margin-left: 20% ;
+    margin-right: 20%;
+    text-align: center;
+    background-color: darksalmon;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+p{
+    margin-top: 10px ;
+    margin-left: 30% ;
+    margin-right: 20%;
+    text-align: center;
+    background-color: rgb(221, 169, 152);
+    padding: 5px;
+   
+}
+
+.indexMain{
+    justify-content: center;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: auto auto;
+
+
+}
+
+
+
+
+.blackClover{
+    margin-left: 7%;
+    margin-right: 30%;
+
+}
+
+.Naruto{
+    margin-left: 7%;
+    margin-right: 30%;
+}
+
+.Bleach{
+    margin-left: 30%;
+    margin-right: 7%;
+}
+
+.onePieceMain{
+    display: grid;
+
+   margin: auto;
+
+}
+
+.opHeader{
+    display: grid;
+    grid-column: auto;
+    align-items: center;
+
+}
+ iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
